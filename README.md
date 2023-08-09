@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 😄 Pronouns: she / they / her
-- 🔭 I’m currently working on completing the JavaScript path from The Odin Project course. Also working as a web designer and Jr. front end developer
-- 🌱 I’m currently learning vanillia JavaScript
+- 😄 Pronouns: she / her
+- :briefcase: I currently work as a web designer and Jr. front end developer
+- 🔭 I’m currently working on completing the JavaScript path from The Odin Project course.
+- 🌱 I’m currently learning vanillia JavaScript, and improving my knowledge on website accessibility 
 - :pencil2: I currently write HTML and CSS
+
 
 <!--
 **Cgeers615/Cgeers615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ 
 -->
