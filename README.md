@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: she / her
-- :briefcase: I currently work as a web designer and Jr. front end developer
+- :briefcase: I currently work as a web designer, graphic designer and Jr. front end developer
 - 🔭 I’m currently working on completing the JavaScript path from The Odin Project course.
 - 🌱 I’m currently learning vanillia JavaScript, and improving my knowledge on website accessibility 
 - :pencil2: I currently write HTML and CSS
